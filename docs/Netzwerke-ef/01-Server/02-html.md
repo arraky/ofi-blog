@@ -39,7 +39,7 @@ Hier können Sie einzelne Tags ausprobieren (achtung, wird nicht gespeichert):
 ```jsx live_jsx
 <body>
     <h1>Hello</h1>
-    <p>Wenn Sie dies sehen, so haben Sie eine erfolgreiche Abfrage auf den <b>SimlpeWebServer</b>
+    <p>Wenn Sie dies sehen, so haben Sie eine erfolgreiche Abfrage auf den <b>SimpleWebServer</b>
     getätigt.</p>
     <h2>Todos vor den Ferien</h2>
     <ul>
