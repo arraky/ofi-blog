@@ -74,7 +74,7 @@ Um von einem Browser aus die Seite `hello.html` anzeigen zu lassen, muss man im 
 <BrowserWindow url="http://Server-IP-Adresse:8000/Pfad/hello.html">
 
 <h1>Hello</h1>
-<p>Wenn Sie dies sehen, so haben Sie eine erfolgreiche Abfrage auf den <b>SimlpeWebServer</b>
+<p>Wenn Sie dies sehen, so haben Sie eine erfolgreiche Abfrage auf den <b>SimpleWebServer</b>
 getätigt.</p>
 <img src="https://www.gbsl.ch/wp-content/uploads/2020/07/Header-GBSL-1170x450.jpg" width="400"/>
 
