@@ -69,7 +69,7 @@ Typischer WLAN-Switch-Router für das Heimnetz:
 Dateiname
 : __EF-Info/docs/Netzwerke/home-network.md__
 
-Suchen Sie bei sich zu Hause den WLAN-Switch-Router und machen Sie eine Foto davon. Erstellen Sie anschliessend eine Skizze der Netzwerksituation, in der Art, wie oben abgebildet.
+Suchen Sie bei sich zu Hause den WLAN-Switch-Router und machen Sie ein Foto davon. Erstellen Sie anschliessend eine Skizze der Netzwerksituation, in der Art, wie oben abgebildet.
 
 Erstellen Sie schliesslich in Ihrem Repository eine neue Seite mit einer kurzen Beschreibung Ihres Heimnetzes und integrieren Sie die Foto, sowie die Skizze.
 :::
